@@ -9,4 +9,5 @@ public interface UserService {
     void InerstUser(User user);
 
     void InerstUser2(User user);
+    void InerstUser4(User user);
 }

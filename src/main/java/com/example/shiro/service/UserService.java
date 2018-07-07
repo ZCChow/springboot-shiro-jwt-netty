@@ -16,4 +16,5 @@ public interface UserService {
     void InerstUser7(User user);
     void InerstUser8(User user);
     void InerstUser9(User user);
+    void InerstUser10(User user);
 }
